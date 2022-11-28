@@ -21,10 +21,10 @@
 - It is a multi-mode database therefore handles a variety of data.
 - Proper indexing of data to keep every entry organized.
 
-### Screenshots:
+## Screenshots:
 
 ![Dashboard](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Dashboard.PNG)
 
-![Index Page](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Index.PNG)
+![Talend CRUD Opeartions](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Index.PNG)
 
 ![Visualize](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Server.PNG)
