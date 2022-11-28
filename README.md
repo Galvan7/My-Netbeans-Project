@@ -25,6 +25,6 @@
 
 ![Dashboard](https://github.com/Galvan7/My-Netbeans-Project/blob/master/Screenshots/Dashboard.png)
 
-![Talend CRUD Opeartions](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/CRUD.PNG)
+![Talend CRUD Opeartions](https://github.com/Galvan7/My-Netbeans-Project/blob/master/Screenshots/CRUD.png)
 
-![Visualize](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/db.PNG)
+![Visualize](https://github.com/Galvan7/My-Netbeans-Project/blob/master/Screenshots/db.png)
