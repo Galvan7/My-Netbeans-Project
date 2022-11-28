@@ -3,17 +3,23 @@
 
 # Title
 ## "Employee Contact Form" 
-### About JsonPowerDB:
 
-- JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Rest API based Multi-mode DBMS. JsonPowerDB has ready to use API for Json document DB, RDBMS, Key-value DB, GeoSpatial DB and Time Series DB functionality. JPDB supports and advocates for true serverless and pluggable API development.
+## Description:
 
-### Benefits of using JsonPowerDB
+- This is a simple details form for Employees which is integrated with the powerful JSON Power DB. The project code is written using Netbeans through HTML5 , JavaScript and AJAX commands. All types of CRUD operations are possible using JSONPower DB. Here we use the Put method to enter information in the database which is connected through a connection token. 
 
-- Simplest way to retrieve data in a JSON format.
+## Benefits of using JsonPowerDB
+
+- It is very fast and therefore reduces developement time and cost.
+- Retrival of data is very easy and efficient.
 - Schema-free, Simple to use, Nimble and In-Memory database.
-- It is built on top of one of the fastest and real-time data indexing engine - PowerIndeX.
-- It is low level (raw) form of data and is also human readable.
-- It helps developers in faster coding, in-turn reduces development cost.
+- It is built on PowerIndex which is one of the fastest and real time data engine.
+- All the data is very easily readable and stored in a very user friendly way.
+- It has serverless support and thus faster developement.
+- It has inbuilt support for querying multiple databases.
+- It has multiple security layers and thus very secure.
+- It is a multi-mode database therefore handles a variety of data.
+- Proper indexing of data to keep every entry organized.
 
 ### Screenshots:
 
