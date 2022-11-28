@@ -27,4 +27,4 @@
 
 ![Talend CRUD Opeartions](https://github.com/Galvan7/My-Netbeans-Project/blob/master/Screenshots/CRUD.png)
 
-![Visualize](https://github.com/Galvan7/My-Netbeans-Project/blob/master/Screenshots/db.png)
+![Visualize](https://github.com/Galvan7/My-Netbeans-Project/blob/master/Screenshots/Db.png)
