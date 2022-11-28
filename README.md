@@ -23,8 +23,8 @@
 
 ## Screenshots:
 
-![Dashboard](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Dashboard.PNG)
+![Dashboard](https://github.com/Galvan7/My-Netbeans-Project/blob/master/Screenshots/Dashboard.png)
 
-![Talend CRUD Opeartions](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Index.PNG)
+![Talend CRUD Opeartions](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/CRUD.PNG)
 
-![Visualize](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Server.PNG)
+![Visualize](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/db.PNG)
